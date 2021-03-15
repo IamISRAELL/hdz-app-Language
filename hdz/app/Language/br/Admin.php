@@ -188,7 +188,7 @@ return [
         'defaultValue' => 'Valor padrão',
         'options' => 'Opções',
         'optionsDescription' => ' Insira uma opção por linha. Cada linha será uma escolha que seus clientes podem escolher',
-        'select' => 'Select',
+        'select' => 'Selecione',
         'customFieldInserted' => 'Novo campo personalizado foi criado.',
         'customFieldUpdated' => 'Os campos personalizados foram atualizados.',
         'customFieldConfirm' => 'Tem certeza de que deseja remover este campo personalizado?',
